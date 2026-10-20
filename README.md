@@ -8,6 +8,14 @@
 
 </div>
 
+<div align="center">
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/rootsiemen/badge.svg)](https://hub.xerj.org/contributors/rootsiemen)
+
+*My server-side offset pagination work in this repo was selected for the XERJ Corpus Hub.*
+
+</div>
+
 StudentStack is a student-first resource directory for finding useful software, cloud credits, certifications, scholarships, internships, and other student offers without digging through stale, single-category lists.
 
 The seeded dataset contains **593 resources across 15 categories**, with filters for category, region, cost type, and tags. Search is typo-tolerant, filters are reflected in the URL, and every resource carries a link-health status that a weekly cron job keeps current.
